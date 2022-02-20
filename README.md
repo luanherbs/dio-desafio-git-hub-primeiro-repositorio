@@ -14,7 +14,7 @@ Este é meu primeiro projeto no GitHub,
 como podem ver estou levemente perdido,
 então o jeito é tentar e tentar até acertar não é mesmo.
 
-https://github.com/luanherbs/dio-desafio-git-hub-primeiro-repositorio/issues/1#issue-1144896384
+![a0256f87-9efd-4c88-b4f8-981cb01c6e23](https://user-images.githubusercontent.com/97854470/154825509-2ccba7e7-d456-4f0a-bd50-249a636ae2b3.jpg)
 
 
 
