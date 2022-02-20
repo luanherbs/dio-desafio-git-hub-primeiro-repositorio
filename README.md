@@ -2,5 +2,4 @@
 Desafio de projeto sobre Git/GitHub
 
 
-##links úteis
-{Sintaxe básica markdawn} (https://www.markdownguide.org/basic-syntax/)
+##links úteis {Sintaxe básica markdawn}(https://www.markdownguide.org/basic-syntax/)
